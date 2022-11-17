@@ -1,0 +1,7 @@
+C:\Users\DELL\source\repos\MqttDemo\MqttDemo\obj\Debug\App1.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\MqttDemo\MqttDemo\obj\Debug\App1.csproj.SuggestedBindingRedirects.cache
+C:\Users\DELL\source\repos\MqttDemo\MqttDemo\obj\Debug\MainWindow.g.cs
+C:\Users\DELL\source\repos\MqttDemo\MqttDemo\obj\Debug\App.g.cs
+C:\Users\DELL\source\repos\MqttDemo\MqttDemo\obj\Debug\MqttDemo_MarkupCompile.cache
+C:\Users\DELL\source\repos\MqttDemo\MqttDemo\obj\Debug\MqttDemo_MarkupCompile.lref
+C:\Users\DELL\source\repos\MqttDemo\MqttDemo\obj\Debug\GeneratedInternalTypeHelper.g.cs

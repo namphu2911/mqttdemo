@@ -1,0 +1,16 @@
+C:\Users\DELL\source\repos\MqttDemo\MqttDemo\bin\Debug\MqttDemo.exe.config
+C:\Users\DELL\source\repos\MqttDemo\MqttDemo\bin\Debug\MqttDemo.exe
+C:\Users\DELL\source\repos\MqttDemo\MqttDemo\bin\Debug\MqttDemo.pdb
+C:\Users\DELL\source\repos\MqttDemo\MqttDemo\obj\Debug\MqttDemo.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\MqttDemo\MqttDemo\obj\Debug\MqttDemo.csproj.SuggestedBindingRedirects.cache
+C:\Users\DELL\source\repos\MqttDemo\MqttDemo\obj\Debug\MainWindow.g.cs
+C:\Users\DELL\source\repos\MqttDemo\MqttDemo\obj\Debug\App.g.cs
+C:\Users\DELL\source\repos\MqttDemo\MqttDemo\obj\Debug\MqttDemo_MarkupCompile.cache
+C:\Users\DELL\source\repos\MqttDemo\MqttDemo\obj\Debug\MqttDemo_MarkupCompile.lref
+C:\Users\DELL\source\repos\MqttDemo\MqttDemo\obj\Debug\MainWindow.baml
+C:\Users\DELL\source\repos\MqttDemo\MqttDemo\obj\Debug\MqttDemo.g.resources
+C:\Users\DELL\source\repos\MqttDemo\MqttDemo\obj\Debug\MqttDemo.Properties.Resources.resources
+C:\Users\DELL\source\repos\MqttDemo\MqttDemo\obj\Debug\MqttDemo.csproj.GenerateResource.cache
+C:\Users\DELL\source\repos\MqttDemo\MqttDemo\obj\Debug\MqttDemo.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\MqttDemo\MqttDemo\obj\Debug\MqttDemo.exe
+C:\Users\DELL\source\repos\MqttDemo\MqttDemo\obj\Debug\MqttDemo.pdb
